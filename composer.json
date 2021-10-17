@@ -1,0 +1,19 @@
+{
+    "name": "celia/public",
+    "description": "Projet quete composer",
+    "authors": [
+        {
+            "name": "uSeRnAmE",
+            "email": "mariejosepg.celia@gmail.com"
+        }
+    ],
+    "require": {},
+
+    "autoload": {
+
+        "psr-4": {"App\\" : "src/"}
+    }
+
+    
+
+}
